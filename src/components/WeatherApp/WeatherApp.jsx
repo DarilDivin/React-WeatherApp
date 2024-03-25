@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { clear_icon, cloud_icon, drizzle_icon, humidity_icon, rain_icon, search_icon, snow_icon, wind_icon } from '../assets'
 import './WeatherApp.css'
 
